@@ -5,7 +5,7 @@ It is highly recommended to run the 'DISABLE' version prior to running a 'DELETE
 You have the option to export the commands to 'DISABLE' or 'DELETE' the rules with Zero Hits.
 
 ## How to Use ##
- - Move script to managment station
+ - Move script the management station
  - ./cleanup-zero-hits.sh
   - Enter IP address of SMS or CMA you wish check
   - Follow remaining prompts for options
