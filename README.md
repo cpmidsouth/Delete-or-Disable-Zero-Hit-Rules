@@ -11,6 +11,7 @@ You have the option to export the commands to 'DISABLE' or 'DELETE' the rules wi
   - Follow remaining prompts for options
     - uid or name
       - The script will ask if you want to export with uid or name. UID is more accurate as it does not change with position.   This will prevent a situation where another admin is adding/removing rules from the rulebase before you are able to run the output file.
+
 You can take the delete/disable command file and run it.
   - chmod 755 Output-Filename.txt
   - ./Output-Filename.txt
